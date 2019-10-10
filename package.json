@@ -1,7 +1,7 @@
 {
-  "name": "elastic-admin",
+  "name": "boilerplate",
   "version": "1.0.0",
-  "description": "Admin panel for elasticsearch",
+  "description": "boilerplate ES6 with node",
   "main": "server.js",
   "author": "Rene Osman",
   "license": "ISC",
